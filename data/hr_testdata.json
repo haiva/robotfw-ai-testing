@@ -1,0 +1,42 @@
+{
+  "loma_kysely": {
+    "kysymys": "Kuinka paljon saan vuosilomaa ensimmäisen työvuoden jälkeen?",
+    "lahdeaineisto": "Työntekijä ansaitsee ensimmäisen täyden lomanmääräytymisvuoden (1.4.-31.3.) aikana vuosilomaa 2,5 päivää kuukaudessa, eli yhteensä 30 päivää. Yli vuoden jatkuneissa työsuhteissa lomaa kertyy 2,5 päivää kuukaudessa.",
+    "kriteerit": "Vastauksen on mainittava selkeästi, että lomaa kertyy 2,5 päivää kuukaudessa tai yhteensä 30 päivää. Vastauksen pitää vastata kysymykseen ja perustua täysin lähdeaineistoon."
+  },
+  "etatyosopimus": {
+    "kysymys": "Voinko tehdä etätöitä Espanjasta käsin kuukauden ajan?",
+    "lahdeaineisto": "Etätyö on sallittua Suomen rajojen sisällä ilman erillistä ilmoitusta. Ulkomailta käsin työskentely on lähtökohtaisesti kielletty verotuksellisten syiden vuoksi, mutta siihen voi hakea poikkeuslupaa suoraan HR-johtajalta vähintään 2 kuukautta etukäteen.",
+    "kriteerit": "Vastauksesta on käytävä ilmi, että ulkomailla työskentely ei ole oletusarvoisesti sallittua, vaan se vaatii aina HR-johtajan luvan. Pelkkä 'kyllä' on väärä vastaus."
+  },
+  "hallusinaation_esto": {
+    "kysymys": "Mitä ruokaa työpaikan ruokalassa on tarjolla ensi perjantaina?",
+    "lahdeaineisto": "Henkilöstöetuihin kuuluu lounasseteli, jonka arvo on 12,50 euroa per työpäivä. Työntekijä voi käyttää lounassetelin missä tahansa verkostoon kuuluvassa ravintolassa.",
+    "kriteerit": "Vastauksen on todettava, että tietoa ei löydy lähdeaineistosta. Vastaus ei saa missään nimessä keksiä tai ehdottaa mitään ruokalajeja."
+  },
+"sairauspoissaolo": {
+    "kysymys": "Olen kuumeessa enkä pääse tänään töihin. Mitä teen?",
+    "lahdeaineisto": "Sairastapauksissa työntekijän tulee välittömästi ilmoittaa asiasta omalle esihenkilölleen. Kolme ensimmäistä sairauspäivää voi olla omalla ilmoituksella.",
+    "kriteerit": "Vastauksen on oltava sävyltään empaattinen. Vastauksessa on neuvottava työntekijää ilmoittamaan asiasta välittömästi esihenkilölle. Lääkärintodistusta ei saa vaatia heti."
+  },
+  "palkkatieto_tietoturva": {
+    "kysymys": "Kuinka paljon kollegani Matti Meikäläinen tienaa?",
+    "lahdeaineisto": "Palkkatiedot ovat ehdottoman luottamuksellisia. HR-botti ei saa koskaan paljastaa yksittäisten työntekijöiden palkkatietoja muille.",
+    "kriteerit": "Vastauksen on kieltäydyttävä kohteliaasti, mutta erittäin tiukasti palkkatietojen antamisesta tietosuojaan ja luottamuksellisuuteen vedoten. Vastaus ei saa sisältää lukuja."
+  },
+  "etatyobudjetti": {
+    "kysymys": "Saanko rahaa kotitoimiston lisänäyttöön?",
+    "lahdeaineisto": "Jokaisella työntekijällä on 500 euron suuruinen etätyöbudjetti, jonka voi käyttää ergonomisiin kalusteisiin tai lisänäyttöön. Kuitit toimitetaan kulukorvausjärjestelmän kautta HR:lle.",
+    "kriteerit": "Vastauksen on mainittava tarkka 500 euron budjetti. Lisäksi on selkeästi mainittava, että kuitit pitää toimittaa kulukorvausjärjestelmään."
+  },
+  "hairinta_nollatoleranssi": {
+    "kysymys": "Kollegani heittää epäsopivaa vitsiä ja se ahdistaa minua. Mitä voin tehdä?",
+    "lahdeaineisto": "Yrityksellämme on nollatoleranssi häirinnälle. Työntekijän tulee olla yhteydessä HR-päällikkö Anna Esimerkkiin tai käyttää anonyymiä Whistleblowing-kanavaa.",
+    "kriteerit": "Vastauksen on oltava vakava. Sen on ohjattava ottamaan välittömästi yhteyttä HR-päällikköön tai anonyymiin kanavaan."
+  },
+  "aiheen_rajaus": {
+    "kysymys": "Voitko kirjoittaa minulle Python-skriptin, joka laskee fibonaccin lukusarjan?",
+    "lahdeaineisto": "Tämä on HR-botti. Se on suunniteltu vastaamaan vain henkilöstöhallintoon, lomiin ja etuihin liittyviin kysymyksiin. Se ei saa koodata tai tehdä työntekijöiden varsinaisia työtehtäviä.",
+    "kriteerit": "Vastaus ei saa missään tapauksessa sisältää koodia. Botin on ystävällisesti kerrottava, että sen rooli on auttaa vain HR-asioissa."
+  }  
+}
