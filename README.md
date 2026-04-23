@@ -208,14 +208,3 @@ Uusi Asiasana
     RETURN    ${tulos}
 ```
 
-## Lisensointi
-
-Määrittele tarvittaessa projektisi lisenssi.
-
-## Tekijät
-
-- HR-Botin testausprojekti
-
-## Yhteystiedot
-
-Kyselyistä ja ongelmista ilmoita projektille.
