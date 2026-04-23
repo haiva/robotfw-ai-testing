@@ -1,4 +1,4 @@
-# HR-Botin AI-testaus
+# Kuvitteellisen HR-Botin AI-testaus Robot Frameworkilla
 
 Automaattinen testausprojekti kuvitteellisen HR-chatbotin testaamiseen Robot Framework -kehyksellä ja AI-malleilla. Projekti vertailee eri kielimallien kykyä vastata HR-aiheisiin kysymyksiin ja arvioi vastausten laatua tuomarimallilla.
 
